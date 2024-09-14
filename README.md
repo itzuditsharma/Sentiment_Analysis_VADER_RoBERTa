@@ -16,8 +16,8 @@ The analysis includes:
 
 **Sentiment Analysis Pipeline:** A sentiment analysis pipeline built using the Hugging Face transformers library, providing easy-to-use sentiment analysis for product reviews.
 
-**
-**Key Features:****
+
+## Key Features:
 Data visualization using Matplotlib and Seaborn.
 
 Sentiment analysis using VADER and RoBERTa models. 
@@ -29,7 +29,7 @@ Exploratory data analysis with Pandas.
 Results comparison between VADER and RoBERTa using pair plots.
 
 
-**Tools and Libraries:**
+## Tools and Libraries:
 Python
 
 Pandas
