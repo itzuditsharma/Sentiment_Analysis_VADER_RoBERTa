@@ -15,3 +15,31 @@ The analysis includes:
 ****Pairwise Analysis and Visualization:** **Displays the relationships between VADER and RoBERTa sentiment scores and the review ratings using Seaborn and Matplotlib.
 
 **Sentiment Analysis Pipeline:** A sentiment analysis pipeline built using the Hugging Face transformers library, providing easy-to-use sentiment analysis for product reviews.
+
+**
+**Key Features:****
+Data visualization using Matplotlib and Seaborn.
+
+Sentiment analysis using VADER and RoBERTa models. 
+
+Hugging Face's pipeline for quick and easy sentiment analysis.
+
+Exploratory data analysis with Pandas.
+
+Results comparison between VADER and RoBERTa using pair plots.
+
+
+**Tools and Libraries:**
+Python
+
+Pandas
+
+Numpy
+
+NLTK (VADER sentiment analyzer)
+
+Hugging Face Transformers (RoBERTa sentiment model)
+
+Seaborn and Matplotlib for data visualization
+
+tqdm for progress tracking
